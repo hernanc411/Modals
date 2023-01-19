@@ -1,0 +1,5 @@
+creación de modales con lazy loading que permite 
+que se cargue el componente modal unicamente 
+al momento de ser utilizado luego se destruya,
+incluye un modal de Loading.. que se ejecuta 
+si la conexión es lenta mediante <suspense/>
